@@ -2,7 +2,7 @@
 Sou um **Desenvolvedor Fullstack**, apaixonado por arquitetura backend, escalabilidade e manipulação de dados.
 Gosto de explorar novas possibilidades e aprender novas ferramentas.
 
-💼 **Atuando na indústria há** `![Years](https://img.shields.io/badge/5%2B%20anos-2020--${new Date().getFullYear()}-blue)` **anos**
+💼 **Atuando na indústria há** `![Years](https://img.shields.io/badge/anos-de%20experi%C3%AAncia-blue)` **anos**
 
 ---
 
@@ -32,8 +32,9 @@ Gosto de explorar novas possibilidades e aprender novas ferramentas.
 
 📫 **Entre em contato comigo!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seu-perfil/)  
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seuemail@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5581986758808)  
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:daniel_Arruda@outlook.com)  
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dc.uneb@gmail.com)
 
 ---
 
