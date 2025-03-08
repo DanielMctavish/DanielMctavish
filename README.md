@@ -2,7 +2,7 @@
 Sou um **Desenvolvedor Fullstack**, apaixonado por arquitetura backend, escalabilidade e manipulação de dados.
 Gosto de explorar novas possibilidades e aprender novas ferramentas.
 
-💼 **Atuando na indústria há** `![Years](https://img.shields.io/badge/anos-de%20experi%C3%AAncia-blue)` **anos**
+💼 **Atuando na indústria como desenvolvedor há** 5 anos
 
 ---
 
